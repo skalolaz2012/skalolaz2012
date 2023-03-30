@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @skalolaz2012
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @skalolaz2012 aka SaperovTop
+- 👀 I’m interested in learning JS and so on
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on huge projects in a great company
+- 📫 How to reach me - it's all about finding @SaperovTop
 
 <!---
 skalolaz2012/skalolaz2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
