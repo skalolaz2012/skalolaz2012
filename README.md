@@ -2,10 +2,15 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 ### :man_technologist: About Me :
-- 👋 Hi, I’m @skalolaz2012 aka SaperovTop
-- 👀 I’m interested in learning JS and so on
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- 👀 I’m interested in learning JS and so on.
+
 - 🌱 I’m currently learning React
+
 - 💞️ I’m looking to collaborate on huge projects in a great company
+
 - 📫 How to reach me - it's all about finding @SaperovTop
 <div id="badges">
   <a href="your-linkedin-URL">
