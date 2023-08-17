@@ -13,16 +13,16 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - 💞️ I’m looking to collaborate on huge projects in a great company
 
-- 📫 How to reach me - it's all about finding @SaperovTop
+- 📫 My contacts @SaperovTop
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:skalolaz2012@yandex.ru">
+    <img src="https://img.shields.io/badge/Yandex-yellow?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCJWAPOOz7P81cJ5kjJDnArA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="t.me/saperovtop">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 ---
