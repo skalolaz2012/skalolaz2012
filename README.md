@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
+### :man_technologist: About Me :
 - 👋 Hi, I’m @skalolaz2012 aka SaperovTop
 - 👀 I’m interested in learning JS and so on
 - 🌱 I’m currently learning React
